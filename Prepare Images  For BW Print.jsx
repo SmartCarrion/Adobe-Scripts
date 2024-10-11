@@ -1,7 +1,7 @@
 // Photoshop script to prepare images for black and white printing
 
 #target photoshop   
-// this script is located in: C:\Users\imccl\AppData\Roaming\Adobe\Adobe Photoshop 2024\Presets\Scripts
+// this script is located in: C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop 2024\Presets\Scripts
 //generally it would be put in the Adobe Scripts folder: 
 //Windows: C:\Program Files\Adobe\Adobe Photoshop [version]\Presets\Scripts\
 //and macOS: /Applications/Adobe Photoshop [version]/Presets/Scripts/

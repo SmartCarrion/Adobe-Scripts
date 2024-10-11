@@ -5,7 +5,10 @@ Instructions:
 3. Select a folder containing your images (.tif, .jpg, .jpeg, .png).
 4. The script will randomly place images in the selected frames.
 
-located in:  C:\Users\imccl\AppData\Roaming\Adobe\InDesign\Version 19.0\en_US\Scripts\Scripts Panel
+located in:  C:\Users\<username>\AppData\Roaming\Adobe\InDesign\Version 19.0\en_US\Scripts\Scripts Panel
+generally it would be put in the Adobe Scripts folder:
+//Windows: C:\Program Files\Adobe\Adobe InDesign [version]\Presets\Scripts\
+//and macOS: /Applications/Adobe InDesign [version]/Presets/Scripts/
 
 Note: This script works best with local folders. For OneDrive, ensure files are available offline.
 */
